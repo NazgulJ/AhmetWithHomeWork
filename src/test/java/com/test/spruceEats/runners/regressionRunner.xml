@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Test">
+    
+    <test name="Spruce Test">
+        
+        <classes>
+            
+            <class name="com.test.spruceEats.Test.HomePageTest"></class>
+            <class name="com.test.spruceEats.Test.FishForDinnerTest"></class>
+            <class name="com.test.spruceEats.Test.FishSeaFoodTest"></class>
+            
+        </classes>
+
+    </test>
+
+</suite>
